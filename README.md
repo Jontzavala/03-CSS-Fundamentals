@@ -1,0 +1,3 @@
+# Working on the Fundamentals
+
+The reason I'm starting back at the very beginning is because the stronger your foundation, the stronger your builds. I started my 100 days of code on January 3rd I decided to take Jonas Schmedtmann's HTML and CSS course as well as his Javascript Course. While working my way through this course I will documenting my progress on here. I also plan on working through a react course all while building projects on the side to implement these skills I will be refeshing as I start my job search.
